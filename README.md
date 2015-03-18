@@ -1,0 +1,1 @@
+Main purpose of scripts in this repository is to demonstrate basic Python idiomatics for Python newcomers.
